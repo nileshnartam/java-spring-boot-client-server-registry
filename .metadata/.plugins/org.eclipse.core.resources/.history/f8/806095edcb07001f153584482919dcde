@@ -1,0 +1,2 @@
+spring.application.name=signals-microservice
+server.port=8082

@@ -1,0 +1,5 @@
+package com.configuration.business.controller;
+
+public class CongfigurationController {
+
+}

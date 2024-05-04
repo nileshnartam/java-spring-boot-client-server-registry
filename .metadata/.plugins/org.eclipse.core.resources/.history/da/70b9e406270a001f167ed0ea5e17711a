@@ -1,0 +1,15 @@
+package com.configuration.business.entity;
+
+import java.util.Date;
+import java.util.List;
+
+public class Configuration {
+	private int id;
+	private String configName;
+	private List<Signal> signals;
+	private Date created;
+	public Configuration() {
+		
+	}
+	
+}

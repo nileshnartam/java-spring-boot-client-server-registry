@@ -1,0 +1,19 @@
+package com.configuration.business.entity;
+
+import java.util.Date;
+
+public class Signal {
+	private int id;
+	private String signalName;
+	private Date createdDate;
+	public Signal() {
+
+	}
+	public Signal(int id, String signalName, Date createdDate) {
+		super();
+		this.id = id;
+		this.signalName = signalName;
+		this.createdDate = createdDate;
+	}
+	
+}

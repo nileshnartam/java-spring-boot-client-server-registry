@@ -1,0 +1,5 @@
+package com.signals.business.service;
+
+public class ISignalService {
+
+}

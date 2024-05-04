@@ -1,0 +1,13 @@
+package com.signals.business;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SignalsMicroserviceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SignalsMicroserviceApplication.class, args);
+	}
+
+}

@@ -1,0 +1,2 @@
+spring.application.name=configuration-microservice
+server.port=8081

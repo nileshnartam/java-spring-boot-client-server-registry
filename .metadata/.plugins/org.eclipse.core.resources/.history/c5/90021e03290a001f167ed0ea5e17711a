@@ -1,0 +1,18 @@
+package com.signals.business.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.signals.business.vo.Signal;
+
+@Service
+public class SignalServiceImpl implements ISignalService{
+	private List<Signal> signals;
+	@Override
+	public List<Signal> getSignals() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

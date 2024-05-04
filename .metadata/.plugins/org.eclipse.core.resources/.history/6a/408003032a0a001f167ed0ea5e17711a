@@ -1,0 +1,5 @@
+package com.signals.business.controller;
+
+public class SignalController {
+
+}

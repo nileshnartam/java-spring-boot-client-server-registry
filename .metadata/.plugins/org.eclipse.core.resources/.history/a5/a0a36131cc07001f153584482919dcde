@@ -1,0 +1,4 @@
+spring.application.name=signals-microservice
+server.port=8082
+
+eureka.instance.prefer-ip-address=true

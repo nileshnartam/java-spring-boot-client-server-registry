@@ -1,0 +1,8 @@
+package com.signals.business.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class SignalServiceImpl implements ISignalService{
+
+}

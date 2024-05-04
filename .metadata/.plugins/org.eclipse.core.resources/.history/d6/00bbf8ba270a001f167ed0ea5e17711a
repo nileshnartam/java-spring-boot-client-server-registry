@@ -1,0 +1,5 @@
+package com.signals.business.vo;
+
+public class Signal {
+
+}

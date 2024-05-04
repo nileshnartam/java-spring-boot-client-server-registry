@@ -1,0 +1,5 @@
+package com.configuration.business.entity;
+
+public class Signal {
+
+}
